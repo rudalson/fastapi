@@ -1,0 +1,10 @@
+# python
+__pycache__
+venv
+
+# editor
+.vscode
+
+
+# etc
+.DS_Store
