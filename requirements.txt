@@ -1,0 +1,4 @@
+autopep8
+fastapi
+pydantic
+uvicorn
