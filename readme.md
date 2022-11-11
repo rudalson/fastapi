@@ -15,6 +15,12 @@ pip install uvicorn
 uvicorn main:app --reload
 ```
 
+### Blog Execution
+
+```
+uvicorn blog.main:app --reload
+```
+
 or
 
 ```
